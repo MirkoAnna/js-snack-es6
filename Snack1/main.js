@@ -23,7 +23,7 @@ const bici = [
     },
 ];
 
-// Scorro tutto l'arrey di oggetto
+// Scorro tutto l'arrey di oggetti
 for(let key in bici) {
 
     // Se peso da posizione 0 a posizione 3 è minore di peso in posizione 0
